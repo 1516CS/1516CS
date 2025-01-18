@@ -3,13 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=1516cs&label=Profile%20views&color=0e75b6&style=flat" alt="1516cs" /> </p>
 
-- 📈 I’m currently learning **Data Governance**
-
 - 👩‍🎓 i completed **BSc in Computer Science and, MSc in Data Science**
 
 - 💻  I’d love to collaborate on: **Data engineering or Data Visualizations projects**
+  
+- 📈 I’m currently learning **Data Governance**
 
-- 📫 How to reach me **uthpaladil5574@gmail.com**
+- 📫 Reach me through  **uthpaladil5574@gmail.com**
 <p> </p>
 <br>
 
