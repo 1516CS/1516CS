@@ -12,6 +12,10 @@
 - 📫 How to reach me **uthpaladil5574@gmail.com**
 <p> </p>
 
+<a href="https://example.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/username/repo/branch/folder/image.png" alt="Description" width="40" height="40"/> 
+</a>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
