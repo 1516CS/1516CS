@@ -13,23 +13,8 @@
 <p> </p>
 <br>
 
- <!-- Centering image using align attribute -->
-<a href="https://example.com" target="_blank" rel="noreferrer">
-  <img src="https://github.com/1516CS/1516CS/blob/main/data4.jpg?raw=true" alt="Data4" style="width: 65%;" align="center"/>
-</a>
-
 ---
-  <h3 align="center">Connect with me:</h3>
-  <p align="center">
-    <a href="https://linkedin.com/in/uthpala-kariyawasam" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/uthpala-kariyawasam-95cd" height="40" width="50" />
-    </a>
-    <a href="https://fb.com/uthpala-kariyawasam" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uthpala kariyawasam" height="40" width="50" />
-    </a>
-  </p>
 
----
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <span style="margin-right: 10px;">
@@ -109,5 +94,25 @@
   </span>
 </p>
 
+<br>
 
+---
+
+<div align="center">
+  <a href="https://example.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/1516CS/1516CS/blob/main/data4.jpg?raw=true" alt="Data4" width="640" height="343"/>
+  </a>
+</div>
+
+  <h3 align="center">Connect with me:</h3>
+  <p align="center">
+    <a href="www.linkedin.com/in/uthpala-kariyawasam-95cd" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Uthpala Kariyawasam" height="40" width="50" />
+    </a>
+    <a href="https://www.facebook.com/uthpala.kariyawasam.58/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uthpala kariyawasam" height="40" width="50" />
+    </a>
+  </p>
+
+ 
 
