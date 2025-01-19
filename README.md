@@ -97,12 +97,7 @@
 <br>
 
 ---
-
-<div align="center">
-  <a href="https://example.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/1516CS/1516CS/blob/main/data4.jpg?raw=true" alt="Data4" width="256" height="142"/>
-  </a>
-</div>
+ 
 
   <h3 align="center">Connect with me:</h3>
   <p align="center">
